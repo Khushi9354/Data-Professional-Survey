@@ -67,6 +67,6 @@ Power BI Dashboard: Contains the Power BI dashboard providing a visual represent
 
 ### Feedback and Contributions
 
-I value your feedback and encourage contributions to enhance the Sales Report Dashboard. If you have suggestions, improvements, or encounter any issues, please feel free to raise them in the Issues section or Contact me - gokulraja840@gmail.com
+I value your feedback and encourage contributions to enhance the Sales Report Dashboard. If you have suggestions, improvements, or encounter any issues, please feel free to raise them in the Issues section or Contact me - k05541372@gmail.com
 
 Happy analyzing! 🚀
